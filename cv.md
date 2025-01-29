@@ -1,12 +1,12 @@
-rsschool-cv  
-Anna Petelina  
-My Contact Info  
+## rsschool-cv  
+# Anna Petelina  
+### My Contact Info  
 - Phone: +994 706371716
 - E-mail: annapet200313@yandex.ru
-- GitHub: anna-end  
-Summary
-My goal is to learn everything new and exciting. I love to code and coffee. I can(love) spend a lot of time doing what interests me. My core strengths are in problem solving and fast learning.I want to get knowledge and skills that will be enough for employment in a company.  
-Skills  
+- GitHub: [anna-end](https://github.com/Anna-end)  
+### Summary
+My goal is to learn everything new and exciting. I love to code. I can(love) spend a lot of time doing what interests me. My core strengths are in problem solving and fast learning.I want to get knowledge and skills that will be enough for employment in a company.  
+### Skills  
 - HTML
 - CSS
 - JavaScript 
@@ -14,7 +14,7 @@ Skills
 - Version control: Git (remote service GitHub)
 - Figma(for web development)
 - Editors: Sublime, VSCode  
-Code examples
+### Code examples
 ```
 function removeSmallest(numbers) {
     let min = Math.min(...numbers);
@@ -25,6 +25,10 @@ function removeSmallest(numbers) {
   }
 
   removeSmallest([7,8,8,3,3,5])
-```
-English  
-A1-A2 (I am currently in the process of learning English).
+```  
+### Courses
+- JavaScript on [learnjavascript.ru](https://learn.javascript.ru) (in progress)
+- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+### Languages  
+- English - A1-A2 (I am currently in the process of learning English).
+- Russian - Native
