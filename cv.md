@@ -1,9 +1,9 @@
 ## rsschool-cv  
 # Anna Petelina  
-### My Contact Info  
-- Phone: +994 706371716
+### My Contact Info 
+- Phone: +79501328073
 - E-mail: annapet200313@yandex.ru
-- GitHub: [anna-end](https://github.com/Anna-end)  
+- GitHub: [anna-end](https://github.com/Anna-end)
 ### Summary
 My goal is to learn everything new and exciting. I love to code. I can(love) spend a lot of time doing what interests me. My core strengths are in problem solving and fast learning.I want to get knowledge and skills that will be enough for employment in a company.  
 ### Skills  
